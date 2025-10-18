@@ -1,0 +1,251 @@
+# Bytpfake Detectioe-compict - .giled /re
+
+# D optimizeles (too ld / DLL filt)
+deeplearning/
+*es
+*.png
+*.jpeg__pycache__/
+*.mp4
+*.avi
+*.mov
+py[cod]
+* Model files (large bin$py.ciles)
+*.pthlass
+.pt
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+
+# C extensions
+*.so/
+*.py[cod]
+*$pclass
+*.so
+
+build/
+develop-eggs
+
+downlo/
+egg
+# Dgs/
+lib/it.
+
+*.spec
+
+# Insta
+pip-log.tar
+pip-delete-this-direls/
+shts/n-wheels/
+*.eggallest / coveraged.cfg
+*.egg
+.tox/
+
+Mcoverage
+.coverage.*ANIFEST
+
+# setests.Py-inf
+ooke.xml
+*.cover
+*.py,c
+hypothesis/
+.pche/
+
+# Transl
+# mo
+*.pot
+
+# DjIPython.if:
+*.lpyn.py
+riaal_settings.py
+dbsqlite3
+db.sqlitl
+
+# Flask stuff:
+envtance/
+.webass..bak/
+
+# Scrapy :
+.scrapy
+
+# Sphinumentation
+docs
+
+# PyBuilder
+ta.vsco/
+*.swp
+# Jupyter N*.swdek
+.ipynb_check/ts
+
+# IPython
+ult/
+ipythopy
+
+# pyenv
+.pythn
+
+# pipenv
+.ids.dcording to pypa/pipenbecommended to inclle.lock in versil.
+#   However, in caoration, if having ecific dependenciess
+#   havinplatform suppay instalndencies that don'ot
+#   install all ne dependencie
+#Pipfile.l
+Thumbs.d
+bDLogs2; used by e.m/David-OCon/pyflow
+packages__/
+
+# C
+celerybeat-schedule
+celerybeat*.log
+wandb/
+# SageMathAL_MODEL_iles
+*.sageREy
+
+# EnviroSULT
+# Tv
+.venv
+eempog_histrix*.png
+roc_/
+ENV/
+ecurvetoryg
+nv.bak/
+
+# Cache d*roject.ectories
+.spyder.cache/cache/
+yproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Machine Learning / Deep Learning specific
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.weights
+
+# Dataset directories
+data/
+datasets/
+deeplearning/
+
+# Logs and outputs
+logs/
+outputs/
+runs/
+wandb/
+tensorboard/
+*.log
+
+# Images and plots (optional - uncomment if you want to ignore)
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.bmp
+# *.tiff
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+pngraS_al environments
+condStight-V100
+.Tonda/
+
+#pu_usage.txt
+nvidia- GPU mo
+
+# Backup filenitorinrasore?
+.DSpk
+*.backup
+*~
+
+# Co/esults_*files
+*.zip
+*.rar
+*.7z
+
+# Do/_build/
+site/
+
+#cu..pngtion borts
+htmlcov/u
+train
+.overthesis/
+ranslati
+#amo
+*.pot
+
+#ge.xml
+*.crapy
+
+docs/_build
+tarjsonget/
+dmypy.json
+he/ type checker
+.dmy
+
+# pytype staticlyzer
+.pyty
+# mypy/
+
+# Sphinx docuovecovermetric
+*.tmp
+*.temp_Storeak/
+# Generated les
+.nv/
+venv/
+ENenv
+# Environment b_chesdpth.tar
+n_configofile_default/
+
+# Jupyter ist/
+var/
+*.manifes
+listribution / packaging
+.Pythonte/other infos i
+build/o as to i
+de/taller builds the e
+dist/template
+#  
+downlggs/
+.eggy a python scri
+partsshon-wheels//
+*.eggally t-hese files are winf
+*.egg
+MANIFlib/talled.cf/
+t/s/a/
+share/
+pip-wh
+va
